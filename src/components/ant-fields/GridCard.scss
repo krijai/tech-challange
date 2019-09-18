@@ -1,0 +1,17 @@
+.gridCardWrapper {
+    .ant-card-head-title {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .gridCard {
+        width: 25%;
+        text-align: center;
+        min-height: 210px;
+        text-transform: capitalize;
+        font-size: 18px;
+        font-family: 'Chilanka', cursive;
+        font-weight: bold;
+        cursor: pointer;
+    }
+}
